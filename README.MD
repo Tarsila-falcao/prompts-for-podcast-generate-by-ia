@@ -12,7 +12,7 @@ Eleven labs (https://elevenlabs.io/app/).
 Utilizei o Seaart.ai para criação da foto da capa do podcast, o Chatgpt para criação do roteiro e do título e o Eleven Labs para transformação do texto em voz.
 
 ## 🚀 Resultados
-O resultado foi uma chamada de um podcast um minuto com um minuto convidando o ouvinte a avaliar a possibilidade de utilizar seu FGTS para ajudar a realizar o sonho de morar na sua casa própria.
+O resultado foi uma chamada de um podcast com um minuto, convidando o ouvinte a avaliar a possibilidade de utilizar seu FGTS para ajudar a realizar o sonho de morar na sua casa própria.
 
 ## Desafios
 A transformação de texto em voz consome muitos créditos nas contas gratuitas das IAs, o que me obrigou a reduzir o tempo do áudio.
